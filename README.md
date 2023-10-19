@@ -7,4 +7,4 @@ Bookmarklets are usually written in Javascript and are super easy to add/remove.
 So here are some helpful bookmarklets that come handy while using SharePoint.
 I have written them for SharePoint Online however these should work for SP2010/2013/2016 as well.
 
-* Site permissions - [link](SharePoint-bookmarklet-Site-Permissions)
+* Site permissions - [link](listsettings.js)
